@@ -5,3 +5,5 @@
 
 ## Deskripsi Project
 project ini dibuat untuk latihan git colab
+
+INI ISINYA COBA SAYA UPDATE
